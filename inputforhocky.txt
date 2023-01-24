@@ -1,0 +1,6 @@
+shrinking_disc 0 0 1 0 1
+wall -3 -10 -3 10
+wall -3 10 3 10
+wall 3 10 3 -10
+wall 3 -10 -3 -10
+simulate 11 0.5

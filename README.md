@@ -1,4 +1,4 @@
-# Air Hocky Game
+# Air Hocky Simulation
 
 
 
